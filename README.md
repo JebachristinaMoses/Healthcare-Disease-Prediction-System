@@ -157,7 +157,7 @@ The models were evaluated using:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Healthcare_Disease_Prediction.git
+git clone https://github.com/JebachristinaMoses/Healthcare-Disease-Prediction-System.git
 ```
 
 Move into the project folder
