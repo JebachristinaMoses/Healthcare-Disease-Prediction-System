@@ -1,0 +1,23 @@
+Day 9: Logistic Regression Model
+
+Algorithm Used:
+Logistic Regression
+
+Model Accuracy:
+75%
+
+Confusion Matrix:
+[[82 17]
+[21 34]]
+
+Observations:
+
+1. Logistic Regression was trained using the cleaned diabetes dataset.
+
+2. The model achieved an accuracy of 75%, indicating satisfactory performance in predicting diabetes.
+
+3. The model correctly classified 82 non-diabetic patients and 34 diabetic patients.
+
+4. Some diabetic patients were incorrectly classified as non-diabetic, indicating that further model improvement is possible.
+
+5. Logistic Regression provides a good baseline model for comparison with other machine learning algorithms.

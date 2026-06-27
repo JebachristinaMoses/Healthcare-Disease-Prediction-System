@@ -1,0 +1,19 @@
+Day 16
+
+Tasks Completed
+
+1. Generated Feature Importance graph.
+
+2. Displayed Feature Importance in Streamlit.
+
+3. Added Health Recommendations based on prediction.
+
+4. Improved Home Page interface.
+
+Observations
+
+• Feature Importance explains which medical attributes influence diabetes prediction.
+
+• Health recommendations improve the usability of the application.
+
+• Dashboard became more interactive and user-friendly.

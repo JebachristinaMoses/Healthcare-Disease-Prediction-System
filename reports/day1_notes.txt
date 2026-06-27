@@ -1,0 +1,15 @@
+Project: Healthcare Data Analysis and Disease Prediction System
+
+Dataset Name: Diabetes Dataset
+
+Number of Rows:768
+Number of Columns:9
+Target Variable:Outcome
+
+Total Diabetic Patients:268
+Total Non-Diabetic Patients:500
+
+Observations:
+1.The dataset contains 768 patient records with 9 attributes related to diabetes diagnosis.
+2.The target variable is "Outcome", where 0 indicates a non-diabetic patient and 1 indicates a diabetic patient.
+3.The dataset has a higher number of non-diabetic patients (500) compared to diabetic patients (268), indicating a moderately imbalanced dataset.

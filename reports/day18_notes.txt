@@ -1,0 +1,16 @@
+Day 18
+
+Tasks Completed
+
+1. Improved dashboard appearance.
+2. Added dataset summary cards.
+3. Added machine learning model comparison page.
+4. Displayed model accuracy chart.
+5. Added medical disclaimer.
+6. Updated dashboard footer.
+
+Observations
+
+• Dashboard now presents information more clearly.
+• Model comparison helps users understand algorithm performance.
+• Disclaimer makes the application more professional.

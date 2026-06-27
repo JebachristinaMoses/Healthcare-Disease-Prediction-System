@@ -1,0 +1,25 @@
+Day 4: Data Quality Analysis
+
+Dataset: Diabetes Dataset
+
+Zero Value Analysis:
+
+Glucose: 5
+
+BloodPressure: 35
+
+SkinThickness: 227
+
+Insulin: 374
+
+BMI: 11
+
+Observations:
+
+1. Several healthcare attributes contain zero values that are medically unrealistic and likely represent missing measurements.
+
+2. The Insulin column contains the highest number of zero values (374), followed by SkinThickness (227).
+
+3. Before training the machine learning model, these zero values should be replaced with appropriate statistical values to improve prediction accuracy.
+
+4. Data preprocessing is necessary to ensure the dataset accurately represents patient health conditions.

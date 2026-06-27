@@ -1,0 +1,23 @@
+Day 7: Correlation Analysis
+
+Features Most Related to Diabetes:
+
+1. Glucose (0.49)
+
+2. BMI (0.31)
+
+3. Age (0.24)
+
+4. Pregnancies (0.22)
+
+Observations:
+
+1. Glucose has the highest correlation with diabetes (0.49), indicating that blood glucose level is the most important factor in predicting diabetes.
+
+2. BMI shows a moderate positive correlation (0.31), suggesting that overweight and obesity increase diabetes risk.
+
+3. Age and number of pregnancies are also positively correlated with diabetes, indicating that older individuals and women with more pregnancies have a higher likelihood of developing diabetes.
+
+4. All features show positive correlations with the target variable, meaning they contribute to diabetes prediction to varying degrees.
+
+5. Correlation analysis helps identify the most influential features that will be useful during machine learning model training.

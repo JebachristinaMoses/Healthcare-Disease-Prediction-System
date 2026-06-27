@@ -1,0 +1,28 @@
+Day 10: Machine Learning Model Comparison
+
+Algorithms Evaluated:
+
+1. Logistic Regression
+   Accuracy: 75%
+
+2. Decision Tree
+   Accuracy: 72%
+
+3. Random Forest
+   Accuracy: 75%
+
+Best Performing Model:
+Random Forest Classifier
+
+Reason for Selection:
+Although Logistic Regression and Random Forest achieved the same overall accuracy (75%), Random Forest showed better performance in identifying diabetic patients (higher recall for the diabetic class). Therefore, Random Forest was selected as the final model for deployment.
+
+Observations:
+
+1. Three machine learning algorithms were trained and evaluated using the cleaned diabetes dataset.
+
+2. Random Forest and Logistic Regression achieved the highest accuracy of 75%.
+
+3. Decision Tree achieved 72% accuracy, which was slightly lower.
+
+4. Random Forest was selected for the final healthcare disease prediction system because it provides better predictive performance for diabetic patients.

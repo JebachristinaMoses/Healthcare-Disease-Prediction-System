@@ -1,0 +1,21 @@
+Average Glucose Level:120.89453125
+Average BMI:31.992578124999998
+Average Age:33.240885416666664
+
+Highest Glucose Level:199
+Lowest Glucose Level:0
+
+Highest BMI:67.1
+Lowest BMI:0.0
+
+Observations:
+
+1. The dataset contains 768 patient records, with 500 non-diabetic patients and 268 diabetic patients.
+
+2. The average glucose level is 120.89, indicating that many patients have elevated blood sugar levels.
+
+3. The highest glucose level recorded is 199 and the highest BMI is 67.1, suggesting some patients are at high risk of diabetes.
+
+4. The minimum values of Glucose (0) and BMI (0) are medically unrealistic and may represent missing or incorrectly recorded data.
+
+5. The dataset is suitable for machine learning-based diabetes prediction after proper preprocessing.

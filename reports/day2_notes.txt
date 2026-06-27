@@ -1,0 +1,18 @@
+Day 2: Data Cleaning Report
+
+Dataset: Diabetes Dataset
+
+Missing Values Analysis:
+
+* No missing values were found in any column.
+* All 768 records contain complete information.
+
+Duplicate Records Analysis:
+
+* No duplicate records were found in the dataset.
+* Each patient record is unique.
+
+Conclusion:
+
+* The dataset is clean and does not require missing value treatment or duplicate removal.
+* The dataset is ready for Exploratory Data Analysis (EDA) and visualization.

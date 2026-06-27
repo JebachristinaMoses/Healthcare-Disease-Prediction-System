@@ -1,0 +1,30 @@
+Day 8: Feature Selection & Train-Test Split
+
+Features (X):
+1. Pregnancies
+2. Glucose
+3. BloodPressure
+4. SkinThickness
+5. Insulin
+6. BMI
+7. DiabetesPedigreeFunction
+8. Age
+
+Target Variable (y):
+Outcome
+
+Training Data:
+80% (614 records)
+
+Testing Data:
+20% (154 records)
+
+Observations:
+
+1. The dataset was divided into training and testing sets using an 80:20 ratio.
+
+2. Eight health-related features were selected as input variables to predict diabetes.
+
+3. The Outcome column was selected as the target variable for machine learning.
+
+4. The train-test split ensures that the model is evaluated on unseen data, providing a reliable measure of its performance.
