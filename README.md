@@ -221,10 +221,6 @@ The application allows users to download a prediction report containing:
 - Cancer Prediction
 - Cloud Deployment
 - Mobile Application
-- Electronic Health Record (EHR) Integration
-- IoT-based Patient Monitoring
-- Explainable AI (XAI)
-- Deep Learning Models
 
 ---
 
@@ -246,9 +242,6 @@ Bachelor of Technology
 
 Artificial Intelligence and Data Science
 
-Christ the King Engineering College
-
-Academic Year: 2026–2027
 
 ---
 
