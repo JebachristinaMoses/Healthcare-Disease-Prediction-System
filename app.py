@@ -483,7 +483,6 @@ This project is developed for educational purposes only.
 It should not be used as a substitute for professional medical advice or diagnosis.
 """)
 
-st.markdown("---")
-st.caption("Healthcare Data Analysis and Disease Prediction System | Developed using Streamlit and Machine Learning")
+
 
    
