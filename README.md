@@ -203,45 +203,47 @@ http://localhost:8501
 ---
 ## 📸 Application Screenshots
 
-### 🏠 Home Page
+<h2>🏠 Home Page</h2>
 
-![Home Page](screenshots/home.png)
+<p align="center">
+  <img src="screenshots/home_page.png" width="900">
+</p>
 
----
+<h2>📊 Dataset Information</h2>
 
-### 📊 Dataset Information
+<p align="center">
+  <img src="screenshots/dataset_information.png" width="900">
+</p>
 
-![Dataset Information](screenshots/dataset_information.png)
+<h2>📈 Data Visualizations</h2>
 
----
+<p align="center">
+  <img src="screenshots/visualizations.png" width="900">
+</p>
 
-### 📈 Visualizations
+<h2>📉 Model Performance</h2>
 
-![Visualizations](screenshots/visualizations.png)
+<p align="center">
+  <img src="screenshots/model_performance.png" width="900">
+</p>
 
----
+<h2>🤖 Disease Prediction</h2>
 
-### 📉 Model Performance
+<p align="center">
+  <img src="screenshots/disease_prediction.png" width="900">
+</p>
 
-![Model Performance](screenshots/model_performance.png)
+<h2>✅ Prediction Result</h2>
 
----
+<p align="center">
+  <img src="screenshots/prediction_result.png" width="900">
+</p>
 
-### 🤖 Disease Prediction
+<h2>ℹ️ About Project</h2>
 
-![Disease Prediction](screenshots/disease_prediction.png)
-
----
-
-### ✅ Prediction Result
-
-![Prediction Result](screenshots/prediction_result.png)
-
----
-
-### ℹ️ About Project
-
-![About Project](screenshots/about_project.png)
+<p align="center">
+  <img src="screenshots/about_project.png" width="900">
+</p>
 
 ## 📄 Prediction Report
 
