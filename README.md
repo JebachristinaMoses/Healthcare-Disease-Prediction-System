@@ -30,6 +30,7 @@ The project demonstrates the complete Data Science workflow:
 
 ---
 
+
 ## 📂 Dataset
 
 **Dataset Name:**
@@ -200,6 +201,47 @@ http://localhost:8501
 - ℹ️ About Project
 
 ---
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+### 📊 Dataset Information
+
+![Dataset Information](screenshots/dataset_information.png)
+
+---
+
+### 📈 Visualizations
+
+![Visualizations](screenshots/visualizations.png)
+
+---
+
+### 📉 Model Performance
+
+![Model Performance](screenshots/model_performance.png)
+
+---
+
+### 🤖 Disease Prediction
+
+![Disease Prediction](screenshots/disease_prediction.png)
+
+---
+
+### ✅ Prediction Result
+
+![Prediction Result](screenshots/prediction_result.png)
+
+---
+
+### ℹ️ About Project
+
+![About Project](screenshots/about_project.png)
 
 ## 📄 Prediction Report
 
